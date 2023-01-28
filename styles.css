@@ -1,5 +1,12 @@
+body{
+   background-color: bisque;
+   
+}
+
 h1 {
    text-align: center;
+   text-decoration: solid;
+   text-shadow: rosybrown;
 }
 
 div {
